@@ -1,0 +1,1143 @@
+"Rk","Tm","Player","College","MP_T","VORP","Year"
+1,"SAC","Pervis Ellison","University of Louisville",11593,7.4,1989
+2,"LAC","Danny Ferry","Duke University",18133,5,1989
+3,"SAS","Sean Elliott","University of Arizona",24502,16.1,1989
+4,"MIA","Glen Rice","University of Michigan",34985,22.1,1989
+5,"CHH","J.R. Reid","University of North Carolina",15370,-0.2,1989
+6,"CHI","Stacey King","University of Oklahoma",7406,-1.9,1989
+7,"IND","George McCloud","Florida State University",17429,5.6,1989
+8,"DAL","Randy White","Louisiana Tech University",5382,-3.3,1989
+9,"WSB","Tom Hammonds","Georgia Institute of Technology",10419,-6,1989
+10,"MIN","Pooh Richardson","University of California, Los Angeles",19399,5.5,1989
+11,"ORL","Nick Anderson","University of Illinois at Urbana-Champaign",24922,23.5,1989
+12,"NJN","Mookie Blaylock","University of Oklahoma",31026,38.9,1989
+13,"BOS","Michael Smith","Brigham Young University",1328,-0.7,1989
+14,"GSW","Tim Hardaway","University of Texas at El Paso",30626,34.6,1989
+15,"DEN","Todd Lichti","Stanford University",4240,-0.8,1989
+16,"SEA","Dana Barros","Boston College",19480,10.6,1989
+17,"SEA","Shawn Kemp","Trinity Valley Community College",29293,27.3,1989
+18,"CHI","B.J. Armstrong","University of Iowa",17790,1.9,1989
+19,"PHI","Kenny Payne","University of Louisville",1167,-1.3,1989
+20,"CHI","Jeff Sanders","Georgia Southern University",462,-0.4,1989
+21,"UTA","Blue Edwards","East Carolina University",18409,5.7,1989
+22,"POR","Byron Irvin","University of Missouri",849,0.2,1989
+23,"ATL","Roy Marble","University of Iowa",194,-0.3,1989
+24,"PHO","Anthony Cook","University of Arizona",1499,-0.8,1989
+25,"CLE","John Morton","Seton Hall University",1879,-1.3,1989
+26,"LAL","Vlade Divac","International",33838,45.3,1989
+27,"DET","Kenny Battle","University of Illinois at Urbana-Champaign",1795,0.9,1989
+28,"MIA","Sherman Douglas","Syracuse University",21148,2.6,1989
+29,"CHH","Dyron Nix","University of Tennessee",109,-0.2,1989
+30,"MIL","Frank Kornet","Vanderbilt University",595,-0.6,1989
+31,"LAC","Jeff Martin","Murray State University",2685,-1.2,1989
+32,"NJN","Stanley Brundy","DePaul University",128,0,1989
+33,"LAC","Jay Edwards","Indiana University",26,0,1989
+34,"MIN","Gary Leonard","University of Missouri",149,-0.2,1989
+35,"DAL","Pat Durham","Colorado State University",930,-0.2,1989
+36,"POR","Clifford Robinson","University of Connecticut",42561,28.7,1989
+37,"ORL","Michael Ansley","University of Alabama",2143,0.5,1989
+38,"MIN","Doug West","Villanova University",16649,-2.2,1989
+39,"WSB","Ed Horton","University of Iowa",374,-0.2,1989
+40,"BOS","Dino Radja","International",7308,2.3,1989
+41,"WSB","Doug Roth","University of Tennessee",412,-0.2,1989
+42,"DEN","Michael Cutright","McNeese State University",NA,NA,1989
+43,"CLE","Chucky Brown","North Carolina State University",11962,-3,1989
+44,"PHI","Reggie Cross","University of Hawaii",NA,NA,1989
+45,"MIA","Scott Haffner","University of Evansville",609,-0.7,1989
+46,"PHO","Ricky Blanton","Louisiana State University",13,0,1989
+47,"DEN","Reggie Turner","University of Alabama at Birmingham",NA,NA,1989
+48,"UTA","Junie Lewis","University of South Alabama",NA,NA,1989
+49,"ATL","Haywoode Workman","Oral Roberts University",7202,1.5,1989
+50,"NYK","Brian Quinnett","Washington State University",1530,-0.7,1989
+51,"PHO","Mike Morrison","Loyola College in Maryland",153,-0.3,1989
+52,"PHO","Greg Grant","Trenton State University",3350,-3,1989
+53,"DAL","Jeff Hodge","University of South Alabama",NA,NA,1989
+54,"PHI","Toney Mack","University of Georgia",NA,NA,1989
+1,"NJN","Derrick Coleman","Syracuse University",25903,21.7,1990
+2,"SEA","Gary Payton","Oregon State University",47117,63,1990
+3,"DEN","Mahmoud Abdul-Rauf","Louisiana State University",15628,-0.7,1990
+4,"ORL","Dennis Scott","Georgia Institute of Technology",17983,7.3,1990
+5,"CHH","Kendall Gill","University of Illinois at Urbana-Champaign",29481,16.9,1990
+6,"MIN","Felton Spencer","University of Louisville",12298,-1.9,1990
+7,"SAC","Lionel Simmons","La Salle University",13472,7.2,1990
+8,"LAC","Bo Kimble","Loyola Marymount University",1336,-1.1,1990
+9,"MIA","Willie Burton","University of Minnesota",6666,-1.4,1990
+10,"ATL","Rumeal Robinson","University of Michigan",6098,-0.3,1990
+11,"GSW","Tyrone Hill","Xavier University",22388,5.7,1990
+12,"HOU","Alec Kessler","University of Georgia",2937,-3.2,1990
+13,"LAC","Loy Vaught","University of Michigan",16993,1.8,1990
+14,"SAC","Travis Mays","University of Texas at Austin",2964,-0.5,1990
+15,"MIA","Dave Jamerson","Ohio University",594,-0.5,1990
+16,"MIL","Terry Mills","University of Michigan",16422,5.5,1990
+17,"NYK","Jerrod Mustaf","University of Maryland",1902,-1.2,1990
+18,"SAC","Duane Causwell","Temple University",9409,1.6,1990
+19,"BOS","Dee Brown","Jacksonville University",16843,11,1990
+20,"MIN","Gerald Glass","University of Mississippi",3347,-0.4,1990
+21,"PHO","Jayson Williams","St. John's University",9805,0.1,1990
+22,"NJN","Tate George","University of Connecticut",2019,-1.8,1990
+23,"SAC","Anthony Bonner","Saint Louis University",7372,2.8,1990
+24,"SAS","Dwayne Schintzius","University of Florida",1950,-1.4,1990
+25,"POR","Alaa Abdelnaby","Duke University",3200,-2.3,1990
+26,"DET","Lance Blanks","University of Texas at Austin",1045,-0.5,1990
+27,"LAL","Elden Campbell","Clemson University",25776,10.8,1990
+28,"GSW","Les Jepsen","University of Iowa",192,-0.3,1990
+29,"CHI","Toni Kukoc","International",22212,24.7,1990
+30,"MIA","Carl Herrera","University of Houston",8042,-2.6,1990
+31,"PHO","Negele Knight","University of Dayton",4513,-3,1990
+32,"PHI","Brian Oliver","Georgia Institute of Technology",1182,-1.3,1990
+33,"UTA","Walter Palmer","Dartmouth College",209,-0.3,1990
+34,"GSW","Kevin Pritchard","University of Kansas",1125,-1,1990
+35,"WSB","Greg Foster","University of Texas at El Paso",7974,-6.3,1990
+36,"ATL","Trevor Wilson","University of California, Los Angeles",1609,-0.6,1990
+37,"WSB","A.J. English","Virginia Union University",3108,-2.4,1990
+38,"SEA","Jud Buechler","University of Arizona",8444,2.7,1990
+39,"CHH","Steve Scheffler","Purdue University",918,0,1990
+40,"SAC","Bimbo Coles","Virginia Polytechnic Institute and State University",20319,-0.7,1990
+41,"ATL","Steve Bardo","University of Illinois at Urbana-Champaign",299,-0.2,1990
+42,"DEN","Marcus Liberty","University of Illinois at Urbana-Champaign",4568,-1.1,1990
+43,"SAS","Tony Massenburg","University of Maryland",12291,-8,1990
+44,"MIL","Steve Henson","Kansas State University",2282,-1.1,1990
+45,"IND","Antonio Davis","University of Texas at El Paso",26084,8.8,1990
+46,"IND","Kenny Williams","Elizabeth City State University",2918,1.4,1990
+47,"PHI","Derek Strong","Xavier University",8548,-2.3,1990
+48,"PHO","Cedric Ceballos","California State University, Fullerton",14712,6,1990
+49,"DAL","Phil Henderson","Duke University",NA,NA,1990
+50,"PHO","Milos Babic","Tennessee Technological University",87,-0.1,1990
+51,"LAL","Tony Smith","Marquette University",7295,-1.1,1990
+52,"CLE","Stefano Rusconi","International",30,0,1990
+53,"SEA","Abdul Shamsid-Deen","Providence College",NA,NA,1990
+54,"SAS","Sean Higgins","University of Michigan",3334,-2.7,1990
+1,"CHH","Larry Johnson","University of Nevada, Las Vegas",25685,28.3,1991
+2,"NJN","Kenny Anderson","Georgia Institute of Technology",25868,18,1991
+3,"SAC","Billy Owens","Syracuse University",17619,11.2,1991
+4,"DEN","Dikembe Mutombo","Georgetown University",36791,38.2,1991
+5,"MIA","Steve Smith","Michigan State University",28855,24.4,1991
+6,"DAL","Doug Smith","University of Missouri",5833,-1.5,1991
+7,"MIN","Luc Longley","University of New Mexico",12006,1.5,1991
+8,"DEN","Mark Macon","Temple University",5018,-1.5,1991
+9,"ATL","Stacey Augmon","University of Nevada, Las Vegas",21658,9.8,1991
+10,"ORL","Bison Dele","University of Arizona",10004,4.4,1991
+11,"CLE","Terrell Brandon","University of Oregon",21545,23.7,1991
+12,"NYK","Greg Anthony","University of Nevada, Las Vegas",15850,8.1,1991
+13,"IND","Dale Davis","Clemson University",29606,28.6,1991
+14,"SEA","Rich King","University of Nebraska",309,-0.3,1991
+15,"ATL","Anthony Avent","Seton Hall University",6729,-5,1991
+16,"GSW","Chris Gatling","Old Dominion University",13760,-0.2,1991
+17,"GSW","Victor Alexander","Iowa State University",5755,-0.9,1991
+18,"MIL","Kevin Brooks","University of Louisiana at Lafayette",1031,-1.5,1991
+19,"WSB","LaBradford Smith","University of Louisville",3131,-1.6,1991
+20,"HOU","John Turner","Phillips University",345,-0.5,1991
+21,"UTA","Eric Murdock","Providence College",11882,9.4,1991
+22,"LAC","LeRon Ellis","Syracuse University",857,-0.3,1991
+23,"ORL","Stanley Roberts","Louisiana State University",5869,-1.9,1991
+24,"BOS","Rick Fox","University of North Carolina",23723,17.6,1991
+25,"GSW","Shaun Vandiver","University of Colorado",NA,NA,1991
+26,"CHI","Mark Randall","University of Kansas",883,-0.4,1991
+27,"SAC","Pete Chilcutt","University of North Carolina",8394,0.3,1991
+28,"CHH","Kevin Lynch","University of Minnesota",1143,-0.6,1991
+29,"MIA","George Ackles","University of Nevada, Las Vegas",NA,NA,1991
+30,"ATL","Rodney Monroe","North Carolina State University",313,-0.4,1991
+31,"SAC","Randy Brown","New Mexico State University",11533,-0.5,1991
+32,"PHO","Chad Gallagher","Creighton University",3,0,1991
+33,"DAL","Donald Hodge","Temple University",3501,-1.8,1991
+34,"MIN","Myron Brown","Slippery Rock University of Pennsylvania",23,0,1991
+35,"DAL","Mike Iuzzolino","Saint Francis University",3049,-0.6,1991
+36,"ORL","Chris Corchiani","North Carolina State University",1313,-0.2,1991
+37,"LAC","Elliot Perry","University of Memphis",9501,-0.4,1991
+38,"LAC","Joe Wylie","University of Miami",NA,NA,1991
+39,"CLE","Jimmy Oliver","Purdue University",856,-0.8,1991
+40,"DET","Doug Overton","La Salle University",7275,-6.2,1991
+41,"IND","Sean Green","Iona College",671,-1.1,1991
+42,"SAC","Steve Hood","James Madison University",NA,NA,1991
+43,"GSW","Lamont Strothers","Christopher Newport University",155,-0.2,1991
+44,"PHI","Alvaro Teheran","University of Houston",NA,NA,1991
+45,"MIL","Bobby Phills","Southern University and A&M College",13426,8.6,1991
+46,"PHO","Richard Dumas","Oklahoma State University",2226,1,1991
+47,"HOU","Keith Hughes","Rutgers University",NA,NA,1991
+48,"UTA","Isaac Austin","Arizona State University",8350,-1,1991
+49,"SAS","Greg Sutton","Oral Roberts University",1946,-1,1991
+50,"PHO","Joey Wright","University of Texas at Austin",NA,NA,1991
+51,"HOU","Zan Tabak","International",3607,-2.2,1991
+52,"LAL","Anthony Jones","Oral Roberts University",NA,NA,1991
+53,"NJN","Von McDade","University of Wisconsin-Milwaukee",NA,NA,1991
+54,"POR","Marcus Kennedy","Eastern Michigan University",NA,NA,1991
+1,"ORL","Shaquille O'Neal","Louisiana State University",41918,74,1992
+2,"CHH","Alonzo Mourning","Georgetown University",25975,24,1992
+3,"MIN","Christian Laettner","Duke University",25760,23.2,1992
+4,"DAL","Jim Jackson","Ohio State University",29067,9.6,1992
+5,"DEN","LaPhonso Ellis","University of Notre Dame",17616,7.1,1992
+6,"WSB","Tom Gugliotta","North Carolina State University",23556,18.7,1992
+7,"SAC","Walt Williams","University of Maryland",18818,12.4,1992
+8,"MIL","Todd Day","University of Arkansas",12214,2.8,1992
+9,"PHI","Clarence Weatherspoon","University of Southern Mississippi",27736,13.4,1992
+10,"ATL","Adam Keefe","Stanford University",10334,4.9,1992
+11,"HOU","Robert Horry","University of Alabama",27069,32,1992
+12,"MIA","Harold Miner","University of Southern California",3748,-2,1992
+13,"DEN","Bryant Stith","University of Virginia",16417,5.8,1992
+14,"IND","Malik Sealy","St. John's University",11720,1.7,1992
+15,"LAL","Anthony Peeler","University of Missouri",20464,6.1,1992
+16,"LAC","Randy Woods","La Salle University",1093,-0.4,1992
+17,"SEA","Doug Christie","Pepperdine University",26079,25.4,1992
+18,"SAS","Tracy Murray","University of California, Los Angeles",12103,1.4,1992
+19,"DET","Don MacLean","University of California, Los Angeles",6679,-2.9,1992
+20,"NYK","Hubert Davis","University of North Carolina",15143,0.7,1992
+21,"BOS","Jon Barry","Georgia Institute of Technology",13880,9.8,1992
+22,"PHO","Oliver Miller","University of Arkansas",11338,10.9,1992
+23,"MIL","Lee Mayberry","University of Arkansas",10337,-6.6,1992
+24,"GSW","Latrell Sprewell","University of Alabama",35270,21.7,1992
+25,"LAC","Elmore Spencer","University of Nevada, Las Vegas",2641,-1.4,1992
+26,"POR","Dave Johnson","Syracuse University",475,-0.9,1992
+27,"CHI","Byron Houston","Oklahoma State University",2674,-0.3,1992
+28,"MIN","Marlon Maxey","University of Texas at El Paso",1146,-0.5,1992
+29,"NJN","P.J. Brown","Louisiana Tech University",33823,28.6,1992
+30,"DAL","Sean Rooks","University of Arizona",13560,-2.7,1992
+31,"POR","Reggie Smith","Texas Christian University",384,-0.3,1992
+32,"WSB","Brent Price","University of Oklahoma",7007,1.6,1992
+33,"CHI","Corey Williams","Oklahoma State University",288,-0.3,1992
+34,"MIN","Chris Smith","University of Connecticut",3956,-2.5,1992
+35,"CHH","Tony Bennett","University of Wisconsin-Green Bay",1886,-0.9,1992
+36,"LAL","Duane Cooper","University of Southern California",781,-1.3,1992
+37,"MIA","Isaiah Morris","University of Arkansas",102,-0.2,1992
+38,"ATL","Elmer Bennett","University of Notre Dame",159,-0.2,1992
+39,"CHI","Litterial Green","University of Georgia",1189,-0.8,1992
+40,"NJN","Steve Rogers","Alabama State University",NA,NA,1992
+41,"HOU","Popeye Jones","Murray State University",12579,2.8,1992
+42,"MIA","Matt Geiger","Georgia Institute of Technology",12221,1.6,1992
+43,"GSW","Sasha Danilovic","International",2331,0.7,1992
+44,"SAS","Henry Williams","University of North Carolina at Charlotte",NA,NA,1992
+45,"SEA","Chris King","Wake Forest University",2058,-0.4,1992
+46,"DEN","Robert Werdann","St. John's University",273,-0.3,1992
+47,"BOS","Darren Morningstar","University of Pittsburgh",367,-0.2,1992
+48,"PHO","Brian Davis","Duke University",374,-0.4,1992
+49,"PHO","Ron Ellis","Louisiana Tech University",NA,NA,1992
+50,"GSW","Matt Fish","University of North Carolina at Wilmington",512,-0.1,1992
+51,"MIN","Tim Burroughs","Jacksonville University",NA,NA,1992
+52,"CHI","Matt Steigenga","Michigan State University",12,0,1992
+53,"HOU","Curtis Blair","University of Richmond",NA,NA,1992
+54,"SAC","Brett Roberts","Morehead State University",NA,NA,1992
+1,"ORL","Chris Webber","University of Michigan",30847,45.9,1993
+2,"PHI","Shawn Bradley","Brigham Young University",19531,12.3,1993
+3,"GSW","Anfernee Hardaway","University of Memphis",23711,27.2,1993
+4,"DAL","Jamal Mashburn","University of Kentucky",22762,12.9,1993
+5,"MIN","Isaiah Rider","University of Nevada, Las Vegas",17851,3.6,1993
+6,"WSB","Calbert Cheaney","Indiana University",22007,-0.7,1993
+7,"SAC","Bobby Hurley","Duke University",4170,-5.8,1993
+8,"MIL","Vin Baker","University of Hartford",25737,10.4,1993
+9,"DEN","Rodney Rogers","Wake Forest University",21873,13.8,1993
+10,"DET","Lindsey Hunter","Jackson State University",23253,9.5,1993
+11,"DET","Allan Houston","University of Tennessee",28311,9.9,1993
+12,"LAL","George Lynch","University of North Carolina",17683,11.5,1993
+13,"LAC","Terry Dehere","Seton Hall University",7305,-2.6,1993
+14,"IND","Scott Haskin","Oregon State University",186,0,1993
+15,"ATL","Doug Edwards","Florida State University",838,-0.6,1993
+16,"NJN","Rex Walters","University of Kansas",4602,-1.5,1993
+17,"CHH","Greg Graham","Indiana University",2530,-1.6,1993
+18,"UTA","Luther Wright","Seton Hall University",92,-0.2,1993
+19,"BOS","Acie Earl","University of Iowa",2512,-3.1,1993
+20,"CHH","Scott Burrell","University of Connecticut",7592,6.1,1993
+21,"POR","James Robinson","University of Alabama",6935,-1.2,1993
+22,"CLE","Chris Mills","University of Arizona",17282,8.8,1993
+23,"SEA","Ervin Johnson","University of New Orleans",16989,8.7,1993
+24,"HOU","Sam Cassell","Florida State University",29812,25.4,1993
+25,"CHI","Corie Blount","University of Cincinnati",9925,2.4,1993
+26,"ORL","Geert Hammink","Louisiana State University",27,0,1993
+27,"PHO","Malcolm Mackey","Georgia Institute of Technology",69,-0.2,1993
+28,"DAL","Lucious Harris","California State University, Long Beach",15701,0.5,1993
+29,"MIN","Sherron Mills","Virginia Commonwealth University",NA,NA,1993
+30,"WSB","Gheorghe Muresan","International",6729,2.5,1993
+31,"SAC","Evers Burns","University of Maryland",143,-0.1,1993
+32,"PHI","Alphonso Ford","Mississippi Valley State University",114,-0.2,1993
+33,"DAL","Eric Riley","University of Michigan",1844,-0.5,1993
+34,"GSW","Darnell Mee","Western Kentucky University",293,-0.1,1993
+35,"MIA","Ed Stokes","University of Arizona",17,0,1993
+36,"NJN","John Best","Tennessee Technological University",NA,NA,1993
+37,"LAL","Nick Van Exel","University of Cincinnati",28969,11.4,1993
+38,"WSB","Conrad McRae","Syracuse University",NA,NA,1993
+39,"IND","Thomas Hill","Duke University",NA,NA,1993
+40,"ATL","Rich Manning","University of Washington",512,-1,1993
+41,"CHI","Anthony Reed","Tulane University",NA,NA,1993
+42,"SEA","Adonis Jordan","University of Kansas",97,-0.1,1993
+43,"DEN","Josh Grant","University of Utah",382,-0.1,1993
+44,"SAC","Alex Holcombe","Baylor University",NA,NA,1993
+45,"UTA","Bryon Russell","California State University, Long Beach",19805,18.5,1993
+46,"HOU","Richard Petruska","University of California, Los Angeles",92,-0.2,1993
+47,"SAS","Chris Whitney","Clemson University",10052,2,1993
+48,"POR","Kevin Thompson","North Carolina State University",58,-0.1,1993
+49,"PHO","Mark Buford","Mississippi Valley State University",NA,NA,1993
+50,"HOU","Marcelo Nicola","International",NA,NA,1993
+51,"IND","Spencer Dunkley","University of Delaware",NA,NA,1993
+52,"SAC","Mike Peplowski","Michigan State University",705,-0.2,1993
+53,"LAC","Leonard White","Southern University and A&M College",NA,NA,1993
+54,"PHO","Byron Wilson","University of Utah",NA,NA,1993
+1,"MIL","Glenn Robinson","Purdue University",25346,10.3,1994
+2,"DAL","Jason Kidd","University of California",50111,78.2,1994
+3,"DET","Grant Hill","Duke University",34776,42.5,1994
+4,"MIN","Donyell Marshall","University of Connecticut",25027,19.1,1994
+5,"WSB","Juwan Howard","University of Michigan",36654,10.1,1994
+6,"PHI","Sharone Wright","Clemson University",4531,-4.1,1994
+7,"LAC","Lamond Murray","University of California",18477,1.4,1994
+8,"SAC","Brian Grant","Xavier University",21417,10.4,1994
+9,"BOS","Eric Montross","University of North Carolina",8479,-3,1994
+10,"LAL","Eddie Jones","Temple University",32778,45.1,1994
+11,"SEA","Carlos Rogers","Tennessee State University",5654,0.2,1994
+12,"MIA","Khalid Reeves","University of Arizona",5837,0.6,1994
+13,"DEN","Jalen Rose","University of Michigan",27925,11.9,1994
+14,"NJN","Yinka Dare","George Washington University",1002,-2,1994
+15,"IND","Eric Piatkowski","University of Nebraska",14613,5.5,1994
+16,"GSW","Clifford Rozier","University of Louisville",2984,-0.1,1994
+17,"POR","Aaron McKie","Temple University",19156,12.9,1994
+18,"MIL","Eric Mobley","University of Pittsburgh",1570,-0.8,1994
+19,"DAL","Tony Dumas","University of Missouri-Kansas City",2222,-1.6,1994
+20,"PHI","B.J. Tyler","University of Texas at Austin",809,-1.1,1994
+21,"CHI","Dickey Simpkins","Providence College",5201,-2.3,1994
+22,"SAS","Bill Curley","Boston College",1614,-0.6,1994
+23,"PHO","Wesley Person","Auburn University",20727,13.8,1994
+24,"NYK","Monty Williams","University of Notre Dame",7624,0.5,1994
+25,"LAC","Greg Minor","University of Louisville",5144,-0.3,1994
+26,"NYK","Charlie Ward","Florida State University",14080,13.3,1994
+27,"ORL","Brooks Thompson","Oklahoma State University",1714,0.1,1994
+28,"DAL","Deon Thomas","University of Illinois at Urbana-Champaign",NA,NA,1994
+29,"PHO","Antonio Lang","Duke University",1395,-0.3,1994
+30,"MIN","Howard Eisley","Boston College",16013,-1,1994
+31,"ORL","Rodney Dent","University of Kentucky",NA,NA,1994
+32,"WSB","Jim McIlvaine","Marquette University",5927,2.8,1994
+33,"PHI","Derrick Alston","Duquesne University",2657,-0.1,1994
+34,"ATL","Gaylon Nickerson","Northwestern Oklahoma State University",42,-0.1,1994
+35,"SAC","Michael Smith","Providence College",10552,8.7,1994
+36,"BOS","Andrei Fetisov","International",NA,NA,1994
+37,"SEA","Dontonio Wingfield","University of Cincinnati",1146,0.2,1994
+38,"CHH","Darrin Hancock","University of Kansas",1395,-0.5,1994
+39,"GSW","Anthony Miller","Michigan State University",1637,-0.2,1994
+40,"MIA","Jeff Webster","University of Oklahoma",58,-0.1,1994
+41,"IND","William Njoku","International",NA,NA,1994
+42,"CLE","Gary Collier","University of Tulsa",NA,NA,1994
+43,"POR","Shawnelle Scott","St. John's University",634,-0.2,1994
+44,"IND","Damon Bailey","Indiana University",NA,NA,1994
+45,"GSW","Dwayne Morton","University of Louisville",395,-0.3,1994
+46,"MIL","Voshon Lenard","University of Minnesota",15349,6.7,1994
+47,"UTA","Jamie Watson","University of South Carolina",1248,0.3,1994
+48,"DET","Jevon Crudup","University of Missouri",NA,NA,1994
+49,"CHI","Kris Bruton","Benedict College",NA,NA,1994
+50,"PHO","Charles Claxton","University of Georgia",7,0,1994
+51,"SAC","Lawrence Funderburke","Ohio State University",4726,-0.2,1994
+52,"PHO","Anthony Goldwire","University of Houston",4951,-1.6,1994
+53,"HOU","Albert Burditt","University of Texas at Austin",NA,NA,1994
+54,"SEA","Zeljko Rebraca","International",3280,-0.4,1994
+1,"GSW","Joe Smith","University of Maryland",27022,5.9,1995
+2,"LAC","Antonio McDyess","University of Alabama",28053,16.4,1995
+3,"PHI","Jerry Stackhouse","University of North Carolina",30222,12.8,1995
+4,"WSB","Rasheed Wallace","University of North Carolina",36243,37.5,1995
+5,"MIN","Kevin Garnett","High School",50418,94,1995
+6,"VAN","Bryant Reeves","Oklahoma State University",12071,-1.8,1995
+7,"TOR","Damon Stoudamire","University of Arizona",29106,15.4,1995
+8,"POR","Shawn Respert","Michigan State University",2350,-0.9,1995
+9,"NJN","Ed O'Bannon","University of California, Los Angeles",2062,-1,1995
+10,"MIA","Kurt Thomas","Texas Christian University",27160,13.2,1995
+11,"MIL","Gary Trent","Ohio University",9866,1.7,1995
+12,"DAL","Cherokee Parks","Duke University",7459,-0.1,1995
+13,"SAC","Corliss Williamson","University of Arkansas",18749,-1.9,1995
+14,"BOS","Eric Williams","Providence College",15731,-1.8,1995
+15,"DEN","Brent Barry","Oregon State University",23643,27.2,1995
+16,"ATL","Alan Henderson","Indiana University",13780,1.1,1995
+17,"CLE","Bob Sura","Florida State University",15597,9.2,1995
+18,"DET","Theo Ratliff","University of Wyoming",20500,15.1,1995
+19,"DET","Randolph Childress","Wake Forest University",405,-0.4,1995
+20,"CHI","Jason Caffey","University of Alabama",9045,-1.6,1995
+21,"PHO","Michael Finley","University of Wisconsin",37996,29.2,1995
+22,"CHH","George Zidek","University of California, Los Angeles",1328,-1.9,1995
+23,"IND","Travis Best","Georgia Institute of Technology",15150,4,1995
+24,"DAL","Loren Meyer","Iowa State University",2044,-2.2,1995
+25,"ORL","David Vaughn","University of Memphis",1156,-1,1995
+26,"SEA","Sherell Ford","University of Illinois at Chicago",139,-0.1,1995
+27,"PHO","Mario Bennett","Arizona State University",606,0.3,1995
+28,"UTA","Greg Ostertag","University of Kansas",14753,10,1995
+29,"SAS","Cory Alexander","University of Virginia",4847,-0.2,1995
+30,"DET","Lou Roe","University of Massachusetts Amherst",479,-0.5,1995
+31,"CHI","Dragan Tarlac","International",598,-0.7,1995
+32,"WSB","Terrence Rencher","University of Texas at Austin",405,-0.4,1995
+33,"BOS","Junior Burrough","University of Virginia",495,-0.7,1995
+34,"GSW","Andrew DeClercq","University of Florida",9847,2.4,1995
+35,"TOR","Jimmy King","University of Michigan",890,-0.8,1995
+36,"VAN","Lawrence Moten","Syracuse University",1814,-0.8,1995
+37,"LAL","Frankie King","Western Carolina University",79,0,1995
+38,"MIL","Rashard Griffith","University of Wisconsin",NA,NA,1995
+39,"CLE","Donny Marshall","University of Connecticut",919,-0.6,1995
+40,"GSW","Dwayne Whitfield","Jackson State University",122,-0.2,1995
+41,"HOU","Erik Meek","Duke University",NA,NA,1995
+42,"ATL","Donnie Boyce","University of Colorado",195,-0.2,1995
+43,"MIL","Eric Snow","Michigan State University",23132,4.3,1995
+44,"DEN","Anthony Pelle","California State University, Fresno",NA,NA,1995
+45,"ATL","Troy Brown","Providence College",NA,NA,1995
+46,"MIA","George Banks","University of Texas at El Paso",NA,NA,1995
+47,"SAC","Tyus Edney","University of California, Los Angeles",4743,-0.9,1995
+48,"MIN","Mark Davis","Texas Tech University",3681,0.3,1995
+49,"MIN","Jerome Allen","University of Pennsylvania",1305,-0.7,1995
+50,"GSW","Martin Lewis","Seward County Community College",239,-0.2,1995
+51,"SAC","Dejan Bodiroga","International",NA,NA,1995
+52,"IND","Fred Hoiberg","Iowa State University",9978,6.9,1995
+53,"LAC","Constantin Popa","University of Miami",NA,NA,1995
+54,"SEA","Aurelijius Zukauskas","International",NA,NA,1995
+55,"GSW","Michael McDonald","University of New Orleans",4,0,1995
+56,"PHO","Chris Carr","Southern Illinois University",4505,-2.4,1995
+57,"ATL","Cuonzo Martin","Purdue University",32,-0.1,1995
+58,"DET","Don Reid","Georgetown University",5374,2.4,1995
+1,"PHI","Allen Iverson","Georgetown University",37584,44.1,1996
+2,"TOR","Marcus Camby","University of Massachusetts Amherst",28684,35.6,1996
+3,"VAN","Shareef Abdur-Rahim","University of California",28882,21.1,1996
+4,"MIL","Stephon Marbury","Georgia Institute of Technology",31891,25.6,1996
+5,"MIN","Ray Allen","University of Connecticut",46344,58.1,1996
+6,"BOS","Antoine Walker","University of Kentucky",31531,21.9,1996
+7,"LAC","Lorenzen Wright","University of Memphis",18535,0,1996
+8,"NJN","Kerry Kittles","Villanova University",16929,16.9,1996
+9,"DAL","Samaki Walker","University of Louisville",7612,-1.8,1996
+10,"IND","Erick Dampier","Mississippi State University",24003,13.1,1996
+11,"GSW","Todd Fuller","North Carolina State University",2500,-3.2,1996
+12,"CLE","Vitaly Potapenko","Wright State University",11608,-4.4,1996
+13,"CHH","Kobe Bryant","High School",48637,72.1,1996
+14,"SAC","Peja Stojakovic","International",26966,23.9,1996
+15,"PHO","Steve Nash","Santa Clara University",38069,31.2,1996
+16,"CHH","Tony Delk","University of Kentucky",11702,2.1,1996
+17,"POR","Jermaine O'Neal","High School",27364,13.9,1996
+18,"NYK","John Wallace","Syracuse University",6143,-3.8,1996
+19,"NYK","Walter McCarty","University of Kentucky",10374,1.7,1996
+20,"CLE","Zydrunas Ilgauskas","International",22965,13,1996
+21,"NYK","Dontae' Jones","Mississippi State University",91,-0.2,1996
+22,"VAN","Roy Rogers","University of Alabama",2309,-0.7,1996
+23,"DEN","Efthimi Rentzias","International",144,-0.1,1996
+24,"LAL","Derek Fisher","University of Arkansas at Little Rock",32719,9.3,1996
+25,"UTA","Martin Muursepp","International",951,0.2,1996
+26,"DET","Jerome Williams","Georgetown University",12755,9,1996
+27,"ORL","Brian Evans","Indiana University",1097,-0.1,1996
+28,"ATL","Priest Lauderdale","Central State University",525,-0.8,1996
+29,"CHI","Travis Knight","University of Connecticut",4566,0.8,1996
+30,"HOU","Othella Harrington","Georgetown University",13924,-4,1996
+31,"PHI","Mark Hendrickson","Washington State University",1508,-0.8,1996
+32,"PHI","Ryan Minor","University of Oklahoma",NA,NA,1996
+33,"MIL","Moochie Norris","University of West Florida",7640,-0.1,1996
+34,"DAL","Shawn Harvey","West Virginia State University",NA,NA,1996
+35,"SEA","Joseph Blair","University of Arizona",NA,NA,1996
+36,"LAC","Doron Sheffer","University of Connecticut",NA,NA,1996
+37,"DEN","Jeff McInnis","University of North Carolina",15927,-2.5,1996
+38,"BOS","Steve Hamer","University of Tennessee",268,-0.4,1996
+39,"PHO","Russ Millard","University of Iowa",NA,NA,1996
+40,"GSW","Marcus Mann","Mississippi Valley State University",NA,NA,1996
+41,"SAC","Jason Sasser","Texas Tech University",108,-0.1,1996
+42,"HOU","Randy Livingston","Louisiana State University",2684,-1.2,1996
+43,"PHO","Ben Davis","University of Arizona",154,-0.2,1996
+44,"CHH","Malik Rose","Drexel University",13404,1.9,1996
+45,"SEA","Joe Vogel","Colorado State University",NA,NA,1996
+46,"POR","Marcus Brown","Murray State University",229,-0.1,1996
+47,"SEA","Ron Riley","Arizona State University",NA,NA,1996
+48,"PHI","Jamie Feick","Michigan State University",4316,0.4,1996
+49,"ORL","Amal McCaskill","Marquette University",968,-0.6,1996
+50,"HOU","Terrell Bell","University of Georgia",NA,NA,1996
+51,"VAN","Chris Robinson","Western Kentucky University",1095,-0.6,1996
+52,"IND","Mark Pope","University of Kentucky",1634,-0.5,1996
+53,"MIL","Jeff Nordgaard","University of Wisconsin-Green Bay",48,-0.1,1996
+54,"UTA","Shandon Anderson","University of Georgia",15946,4.9,1996
+55,"WSB","Ronnie Henderson","Louisiana State University",NA,NA,1996
+56,"CLE","Reggie Geary","University of Arizona",931,-0.3,1996
+57,"SEA","Drew Barry","Georgia Institute of Technology",598,-0.4,1996
+58,"DAL","Darnell Robinson","University of Arkansas",NA,NA,1996
+1,"SAS","Tim Duncan","Wake Forest University",47368,89.3,1997
+2,"PHI","Keith Van Horn","University of Utah",18150,8.4,1997
+3,"BOS","Chauncey Billups","University of Colorado",33008,37.6,1997
+4,"VAN","Antonio Daniels","Bowling Green State University",19671,4.1,1997
+5,"DEN","Tony Battie","Texas Tech University",17649,1.9,1997
+6,"BOS","Ron Mercer","University of Kentucky",13418,-4.3,1997
+7,"NJN","Tim Thomas","Villanova University",21336,5.4,1997
+8,"GSW","Adonal Foyle","Colgate University",13060,3.9,1997
+9,"TOR","Tracy McGrady","High School",30658,50.6,1997
+10,"MIL","Danny Fortson","University of Cincinnati",8832,-2.1,1997
+11,"SAC","Tariq Abdul-Wahad","San Jose State University",4807,-1.5,1997
+12,"IND","Austin Croshere","Providence College",11480,4.3,1997
+13,"CLE","Derek Anderson","University of Kentucky",17975,13.3,1997
+14,"LAC","Maurice Taylor","University of Michigan",13324,-5.9,1997
+15,"DAL","Kelvin Cato","Iowa State University",10617,4.6,1997
+16,"CLE","Brevin Knight","Stanford University",18176,4.3,1997
+17,"ORL","Johnny Taylor","University of Tennessee at Chattanooga",866,-0.3,1997
+18,"POR","Chris Anstey","International",2157,-0.4,1997
+19,"DET","Scot Pollard","University of Kansas",8372,5.5,1997
+20,"MIN","Paul Grant","University of Wisconsin",111,-0.2,1997
+21,"NJN","Anthony Parker","Bradley University",13752,9.1,1997
+22,"ATL","Ed Gray","University of California",809,-0.9,1997
+23,"SEA","Bobby Jackson","University of Minnesota",16790,7.8,1997
+24,"HOU","Rodrick Rhodes","University of Southern California",1234,-1.4,1997
+25,"NYK","John Thomas","University of Minnesota",2253,-0.7,1997
+26,"MIA","Charles Smith","University of New Mexico",1973,0.2,1997
+27,"UTA","Jacque Vaughn","University of Kansas",12658,-7.1,1997
+28,"CHI","Keith Booth","University of Maryland",449,-0.5,1997
+29,"HOU","Serge Zwikker","University of North Carolina",NA,NA,1997
+30,"MIA","Mark Sanford","University of Washington",NA,NA,1997
+31,"DET","Charles O'Bannon","University of California, Los Angeles",399,-0.1,1997
+32,"DEN","James Cotton","California State University, Long Beach",92,-0.3,1997
+33,"PHI","Marko Milic","International",216,0,1997
+34,"DAL","Bubba Wells","Austin Peay State University",395,-0.3,1997
+35,"PHI","Kebu Stewart","California State University, Bakersfield",110,-0.1,1997
+36,"PHI","James Collins","Florida State University",103,-0.1,1997
+37,"GSW","Marc Jackson","Temple University",7572,-3.1,1997
+38,"MIL","Jerald Honeycutt","Tulane University",632,-0.3,1997
+39,"SAC","Anthony Johnson","College of Charleston",15552,-0.4,1997
+40,"SEA","Eddie Elisma","Georgia Institute of Technology",NA,NA,1997
+41,"DEN","Jason Lawson","Villanova University",80,0.1,1997
+42,"PHO","Stephen Jackson","Butler County Community College",27398,13.6,1997
+43,"MIN","Gordon Malone","West Virginia University",NA,NA,1997
+44,"CLE","Cedric Henderson","University of Memphis",6182,-0.7,1997
+45,"WAS","God Shammgod","Providence College",146,-0.3,1997
+46,"ORL","Eric Washington","University of Alabama",2300,-1,1997
+47,"POR","Alvin Williams","Villanova University",12610,3.6,1997
+48,"WAS","Predrag Drobnjak","International",5542,-3.1,1997
+49,"ATL","Alain Digbeu","International",NA,NA,1997
+50,"ATL","Chris Crawford","Marquette University",3985,-0.9,1997
+51,"LAL","DeJuan Wheat","University of Louisville",740,-0.4,1997
+52,"VAN","C.J. Bruton","Indian Hills Community College",NA,NA,1997
+53,"LAL","Paul Rogers","Gonzaga University",NA,NA,1997
+54,"SEA","Mark Blount","University of Pittsburgh",13981,-1.4,1997
+55,"BOS","Ben Pepper","International",NA,NA,1997
+56,"UTA","Nate Erdmann","University of Oklahoma",NA,NA,1997
+57,"CHI","Roberto Duenas","International",NA,NA,1997
+1,"LAC","Michael Olowokandi","University of the Pacific",13129,-8.3,1998
+2,"VAN","Mike Bibby","University of Arizona",33962,21.2,1998
+3,"DEN","Raef LaFrentz","University of Kansas",14545,12.8,1998
+4,"TOR","Antawn Jamison","University of North Carolina",37638,17.4,1998
+5,"GSW","Vince Carter","University of North Carolina",43135,54.6,1998
+6,"DAL","Robert Traylor","University of Michigan",6243,3.6,1998
+7,"SAC","Jason Williams","University of Florida",23188,7.8,1998
+8,"PHI","Larry Hughes","Saint Louis University",22368,9.7,1998
+9,"MIL","Dirk Nowitzki","International",48673,65.9,1998
+10,"BOS","Paul Pierce","University of Kansas",45880,61.5,1998
+11,"DET","Bonzi Wells","Ball State University",15133,9.3,1998
+12,"ORL","Michael Doleac","University of Utah",8789,-3.8,1998
+13,"ORL","Keon Clark","University of Nevada, Las Vegas",7971,3.8,1998
+14,"HOU","Michael Dickerson","University of Arizona",7490,1.6,1998
+15,"ORL","Matt Harpring","Georgia Institute of Technology",17584,8.2,1998
+16,"HOU","Bryce Drew","Valparaiso University",3970,-2.6,1998
+17,"MIN","Rasho Nesterovic","International",17983,11,1998
+18,"HOU","Mirsad Turkcan","International",90,-0.1,1998
+19,"MIL","Pat Garrity","University of Notre Dame",11062,0.7,1998
+20,"ATL","Roshown McLeod","Duke University",2130,-1.6,1998
+21,"CHH","Ricky Davis","University of Iowa",21927,6.5,1998
+22,"LAC","Brian Skinner","Baylor University",10910,-1,1998
+23,"DEN","Tyronn Lue","University of Nebraska",12564,-2.5,1998
+24,"SAS","Felipe Lopez","St. John's University",4145,-0.7,1998
+25,"IND","Al Harrington","High School",28009,5.5,1998
+26,"LAL","Sam Jacobson","University of Minnesota",752,-0.3,1998
+27,"SEA","Vladimir Stepania","International",3726,-1.8,1998
+28,"CHI","Corey Benjamin","Oregon State University",2191,-2,1998
+29,"UTA","Nazr Mohammed","University of Kentucky",15891,-2,1998
+30,"DAL","Ansu Sesay","University of Mississippi",1301,-0.4,1998
+31,"LAL","Ruben Patterson","University of Cincinnati",15955,11.8,1998
+32,"SEA","Rashard Lewis","High School",33541,34.1,1998
+33,"SEA","Jelani McCoy","University of California, Los Angeles",3824,-1.1,1998
+34,"CHI","Shammond Williams","University of North Carolina",5351,-0.4,1998
+35,"DAL","Bruno Sundov","International",524,-1,1998
+36,"SAC","Jerome James","Florida Agricultural and Mechanical University",4771,-1.3,1998
+37,"PHI","Casey Shaw","University of Toledo",14,-0.1,1998
+38,"NYK","DeMarco Johnson","University of North Carolina at Charlotte",37,-0.1,1998
+39,"MIL","Rafer Alston","California State University, Fresno",19392,10.9,1998
+40,"DET","Korleone Young","High School",15,0,1998
+41,"HOU","Cuttino Mobley","University of Rhode Island",27618,15.3,1998
+42,"ORL","Miles Simon","University of Arizona",19,-0.1,1998
+43,"WAS","Jahidi White","Georgetown University",5913,-2.7,1998
+44,"NYK","Sean Marks","University of California",2275,-1.7,1998
+45,"LAL","Toby Bailey","University of California, Los Angeles",698,-0.3,1998
+46,"MIN","Andrae Patterson","Indiana University",304,0.1,1998
+47,"TOR","Tyson Wheeler","University of Rhode Island",3,0,1998
+48,"CLE","Ryan Stack","University of South Carolina",397,-0.3,1998
+49,"ATL","Cory Carr","Texas Tech University",624,-1.1,1998
+50,"CHH","Andrew Betts","California State University, Long Beach",NA,NA,1998
+51,"MIA","Corey Brewer","University of Oklahoma",NA,NA,1998
+52,"SAS","Derrick Dial","Eastern Michigan University",687,-0.3,1998
+53,"DAL","Greg Buckner","Clemson University",10895,5.8,1998
+54,"DEN","Tremaine Fowlkes","California State University, Fresno",1233,0,1998
+55,"DEN","Ryan Bowen","University of Iowa",6502,3.3,1998
+56,"VAN","J.R. Henderson","University of California, Los Angeles",331,-0.3,1998
+57,"UTA","Torraye Braggs","Xavier University",178,-0.1,1998
+58,"CHI","Maceo Baston","University of Michigan",831,0.1,1998
+1,"CHI","Elton Brand","Duke University",34910,45.2,1999
+2,"VAN","Steve Francis","University of Maryland",21632,28.2,1999
+3,"CHH","Baron Davis","University of California, Los Angeles",28592,34.1,1999
+4,"LAC","Lamar Odom","University of Rhode Island",32131,36.3,1999
+5,"TOR","Jonathan Bender","High School",3847,-1.5,1999
+6,"MIN","Wally Szczerbiak","Miami University",20052,12.8,1999
+7,"WAS","Richard Hamilton","University of Connecticut",29559,10.5,1999
+8,"CLE","Andre Miller","University of Utah",40268,31.7,1999
+9,"PHO","Shawn Marion","University of Nevada, Las Vegas",40097,52.1,1999
+10,"ATL","Jason Terry","University of Arizona",41220,34.1,1999
+11,"CLE","Trajan Langdon","Duke University",1738,0.1,1999
+12,"TOR","Aleksandar Radojevic","Barton County Community College",152,-0.3,1999
+13,"SEA","Corey Maggette","Duke University",23358,9.5,1999
+14,"MIN","William Avery","Duke University",1205,-1.6,1999
+15,"NYK","Frederic Weis","International",NA,NA,1999
+16,"CHI","Metta World Peace","St. John's University",31440,29.9,1999
+17,"ATL","Cal Bowdler","Old Dominion University",1383,-0.9,1999
+18,"DEN","James Posey","Xavier University",23260,18.8,1999
+19,"UTA","Quincy Lewis","University of Minnesota",1853,-0.9,1999
+20,"ATL","Dion Glover","Georgia Institute of Technology",6132,-0.7,1999
+21,"GSW","Jeff Foster","Texas State University",15750,13,1999
+22,"HOU","Kenny Thomas","University of New Mexico",17306,6.6,1999
+23,"LAL","Devean George","Augsburg College",11682,2.5,1999
+24,"UTA","Andrei Kirilenko","International",23916,42.4,1999
+25,"MIA","Tim James","University of Miami",261,-0.3,1999
+26,"IND","Vonteego Cummings","University of Pittsburgh",3789,-0.9,1999
+27,"ATL","Jumaine Jones","University of Georgia",9780,2.4,1999
+28,"UTA","Scott Padgett","University of Kentucky",5613,2.7,1999
+29,"SAS","Leon Smith","High School",104,-0.1,1999
+30,"LAL","John Celestand","Villanova University",185,-0.3,1999
+31,"LAC","Rico Hill","Illinois State University",NA,NA,1999
+32,"CHI","Michael Ruffin","University of Tulsa",5966,1.2,1999
+33,"DEN","Chris Herren","California State University, Fresno",1005,-0.9,1999
+34,"NJN","Evan Eschmeyer","Northwestern University",2138,0.5,1999
+35,"WAS","Calvin Booth","Pennsylvania State University",4477,0.8,1999
+36,"DAL","Wang Zhizhi","International",1256,-0.7,1999
+37,"VAN","Obinna Ekezie","University of Maryland",1516,-1.5,1999
+38,"ORL","Laron Profit","University of Maryland",1537,-0.5,1999
+39,"CLE","A.J. Bramlett","University of Arizona",61,-0.2,1999
+40,"DAL","Gordan Giricek","International",8824,-2.5,1999
+41,"DEN","Francisco Elson","University of California",7207,0.8,1999
+42,"MIN","Louis Bullock","University of Michigan",NA,NA,1999
+43,"CHH","Lee Nailon","Texas Christian University",5820,-1.5,1999
+44,"HOU","Tyrone Washington","Mississippi State University",NA,NA,1999
+45,"SAC","Ryan Robertson","University of Kansas",25,0,1999
+46,"NYK","J.R. Koch","University of Iowa",NA,NA,1999
+47,"PHI","Todd MacCulloch","University of Washington",3439,1.9,1999
+48,"MIL","Galen Young","University of North Carolina at Charlotte",NA,NA,1999
+49,"CHI","Lari Ketner","University of Massachusetts Amherst",139,-0.3,1999
+50,"HOU","Venson Hamilton","University of Nebraska",NA,NA,1999
+51,"VAN","Antwain Smith","Saint Paul's College",NA,NA,1999
+52,"POR","Roberto Bergersen","Boise State University",NA,NA,1999
+53,"MIA","Rodney Buford","Creighton University",4182,-2.8,1999
+54,"DET","Melvin Levett","University of Cincinnati",NA,NA,1999
+55,"BOS","Kris Clack","University of Texas at Austin",NA,NA,1999
+56,"GSW","Tim Young","Stanford University",137,-0.2,1999
+57,"SAS","Manu Ginobili","International",25560,46.8,1999
+58,"UTA","Eddie Lucas","Virginia Polytechnic Institute and State University",NA,NA,1999
+1,"NJN","Kenyon Martin","University of Cincinnati",23134,15.5,2000
+2,"VAN","Stromile Swift","Louisiana State University",10804,0.2,2000
+3,"LAC","Darius Miles","High School",11730,2.3,2000
+4,"CHI","Marcus Fizer","Iowa State University",6032,-4.1,2000
+5,"ORL","Mike Miller","University of Florida",27812,20.3,2000
+6,"ATL","DerMarr Johnson","University of Cincinnati",5930,0.6,2000
+7,"CHI","Chris Mihm","University of Texas at Austin",8758,-4.1,2000
+8,"CLE","Jamal Crawford","University of Michigan",36124,10.9,2000
+9,"HOU","Joel Przybilla","University of Minnesota",11733,3.3,2000
+10,"ORL","Keyon Dooling","University of Missouri",14134,-3.6,2000
+11,"BOS","Jerome Moiso","University of California, Los Angeles",1392,-0.6,2000
+12,"DAL","Etan Thomas","Syracuse University",7084,-1,2000
+13,"ORL","Courtney Alexander","California State University, Fresno",4067,-2.1,2000
+14,"DET","Mateen Cleaves","Michigan State University",1863,-2,2000
+15,"MIL","Jason Collier","Georgia Institute of Technology",2178,-2.3,2000
+16,"SAC","Hedo Turkoglu","International",26695,21.4,2000
+17,"SEA","Desmond Mason","Oklahoma State University",19641,-1.9,2000
+18,"LAC","Quentin Richardson","DePaul University",20785,8.9,2000
+19,"CHH","Jamaal Magloire","University of Kentucky",14621,-3.3,2000
+20,"PHI","Speedy Claxton","Hofstra University",8548,2.8,2000
+21,"TOR","Morris Peterson","Michigan State University",19366,9.7,2000
+22,"NYK","Donnell Harvey","University of Florida",3318,-0.6,2000
+23,"UTA","DeShawn Stevenson","High School",18396,-4.6,2000
+24,"CHI","Dalibor Bagaric","International",973,-1.2,2000
+25,"PHO","Jake Tsakalidis","International",5005,-1.3,2000
+26,"DEN","Mamadou N'Diaye","Auburn University",858,-0.7,2000
+27,"IND","Primoz Brezec","International",6192,-0.8,2000
+28,"POR","Erick Barkley","St. John's University",266,-0.1,2000
+29,"LAL","Mark Madsen","Stanford University",5335,-0.2,2000
+30,"LAC","Marko Jaric","International",11246,4.3,2000
+31,"DAL","Dan Langhi","Vanderbilt University",1253,-1.5,2000
+32,"CHI","A.J. Guyton","Indiana University",1246,-1.1,2000
+33,"CHI","Jake Voskuhl","University of Connecticut",6443,-0.3,2000
+34,"CHI","Khalid El-Amin","University of Connecticut",936,-0.4,2000
+35,"WAS","Mike Smith","University of Louisiana at Monroe",180,-0.2,2000
+36,"NJN","Soumaila Samake","International",303,-0.3,2000
+37,"MIA","Eddie House","Arizona State University",12405,1.6,2000
+38,"HOU","Eduardo Najera","University of Oklahoma",11213,6.4,2000
+39,"NYK","Lavor Postell","St. John's University",446,-0.7,2000
+40,"ATL","Hanno Mottola","University of Utah",2360,-2.3,2000
+41,"SAS","Chris Carrawell","Duke University",NA,NA,2000
+42,"SEA","Olumide Oyedeji","International",587,-0.4,2000
+43,"MIL","Michael Redd","Ohio State University",20104,14.9,2000
+44,"DET","Brian Cardinal","Purdue University",6477,4.5,2000
+45,"SAC","Jabari Smith","Louisiana State University",1063,-0.5,2000
+46,"TOR","DeeAndre Hulett","College of the Sequoias",NA,NA,2000
+47,"SEA","Josip Sesar","International",NA,NA,2000
+48,"PHI","Mark Karcher","Temple University",NA,NA,2000
+49,"MIL","Jason Hart","Syracuse University",5289,0.3,2000
+50,"UTA","Kaniel Dickens","University of Idaho",85,-0.1,2000
+51,"MIN","Igor Rakocevic","International",244,-0.3,2000
+52,"MIA","Ernest Brown","Indian Hills Community College",21,-0.1,2000
+53,"DEN","Dan McClintock","Northern Arizona University",58,-0.1,2000
+54,"SAS","Cory Hightower","Indian Hills Community College",NA,NA,2000
+55,"GSW","Chris Porter","Auburn University",1147,-0.8,2000
+56,"IND","Jaquay Walls","University of Colorado",NA,NA,2000
+57,"ATL","Scoonie Penn","Ohio State University",NA,NA,2000
+58,"DAL","Pete Mickeal","University of Cincinnati",NA,NA,2000
+1,"WAS","Kwame Brown","High School",13389,-0.4,2001
+2,"LAC","Tyson Chandler","High School",29372,26.7,2001
+3,"ATL","Pau Gasol","International",38829,54.2,2001
+4,"CHI","Eddy Curry","High School",13109,-5,2001
+5,"GSW","Jason Richardson","Michigan State University",29241,24.4,2001
+6,"MEM","Shane Battier","Duke University",30004,37,2001
+7,"NJN","Eddie Griffin","Seton Hall University",6729,1.7,2001
+8,"CLE","DeSagana Diop","International",8403,4.3,2001
+9,"DET","Rodney White","University of North Carolina at Charlotte",3354,-1.5,2001
+10,"BOS","Joe Johnson","University of Arkansas",43029,27,2001
+11,"BOS","Kedrick Brown","Okaloosa-Walton Community College",1935,-0.1,2001
+12,"SEA","Vladimir Radmanovic","International",16164,7.7,2001
+13,"HOU","Richard Jefferson","University of Arizona",34130,20,2001
+14,"GSW","Troy Murphy","University of Notre Dame",19921,9.5,2001
+15,"ORL","Steven Hunter","DePaul University",5993,-1.3,2001
+16,"CHH","Kirk Haston","Indiana University",134,-0.4,2001
+17,"TOR","Michael Bradley","Villanova University",2016,-0.9,2001
+18,"HOU","Jason Collins","Stanford University",14974,0.2,2001
+19,"POR","Zach Randolph","Michigan State University",33108,13.5,2001
+20,"CLE","Brendan Haywood","University of North Carolina",18680,8.4,2001
+21,"BOS","Joseph Forte","University of North Carolina",125,-0.3,2001
+22,"ORL","Jeryl Sasser","Southern Methodist University",1061,-0.2,2001
+23,"HOU","Brandon Armstrong","Pepperdine University",699,-1.2,2001
+24,"UTA","Raul Lopez","International",2135,-0.8,2001
+25,"SAC","Gerald Wallace","University of Alabama",24731,27.3,2001
+26,"PHI","Samuel Dalembert","Seton Hall University",21646,7.2,2001
+27,"MEM","Jamaal Tinsley","Iowa State University",14443,5.7,2001
+28,"SAS","Tony Parker","International",36205,27.1,2001
+29,"CHI","Trenton Hassell","Austin Peay State University",16278,-1.3,2001
+30,"GSW","Gilbert Arenas","University of Arizona",19351,24.1,2001
+31,"ORL","Omar Cook","St. John's University",213,-0.2,2001
+32,"MEM","Will Solomon","Clemson University",1584,-1.1,2001
+33,"ATL","Terence Morris","University of Maryland",1934,-0.8,2001
+34,"NJN","Brian Scalabrine","University of Southern California",6772,-1.1,2001
+35,"CLE","Jeff Trepagnier","University of Southern California",270,-0.2,2001
+36,"PHI","Damone Brown","Syracuse University",351,-0.7,2001
+37,"DET","Mehmet Okur","International",18429,15.7,2001
+38,"NYK","Michael Wright","University of Arizona",NA,NA,2001
+39,"SEA","Earl Watson","University of California, Los Angeles",19494,1,2001
+40,"IND","Jamison Brewer","Auburn University",468,-0.3,2001
+41,"SEA","Bobby Simmons","DePaul University",11513,5.4,2001
+42,"NYK","Eric Chenowith","University of Kansas",NA,NA,2001
+43,"DAL","Kyle Hill","Eastern Illinois University",NA,NA,2001
+44,"CHI","Sean Lampley","University of California",550,-0.2,2001
+45,"MIN","Loren Woods","University of Arizona",2428,-0.6,2001
+46,"DEN","Ousmane Cisse","International",NA,NA,2001
+47,"MEM","Antonis Fotsis","International",320,-0.2,2001
+48,"MIA","Ken Johnson","Ohio State University",156,-0.3,2001
+49,"POR","Ruben Boumtje-Boumtje","Georgetown University",276,-0.2,2001
+50,"PHO","Alton Ford","University of Houston",524,-0.6,2001
+51,"MIL","Andre Hutson","Michigan State University",NA,NA,2001
+52,"UTA","Jarron Collins","Stanford University",8542,0.5,2001
+53,"DAL","Kenny Satterfield","University of Cincinnati",1062,-1.1,2001
+54,"SAC","Maurice Jeffers","Saint Louis University",NA,NA,2001
+55,"SAS","Robertas Javtokas","International",NA,NA,2001
+56,"PHI","Alvin Jones","Georgia Institute of Technology",126,-0.1,2001
+57,"SAS","Bryan Bracey","University of Oregon",NA,NA,2001
+1,"HOU","Yao Ming","International",15818,17,2002
+2,"CHI","Jay Williams","Duke University",1961,-0.1,2002
+3,"GSW","Mike Dunleavy","Duke University",27340,15.9,2002
+4,"MEM","Drew Gooden","University of Kansas",20127,2.3,2002
+5,"DEN","Nikoloz Tskitishvili","International",1946,-2.1,2002
+6,"CLE","Dajuan Wagner","University of Memphis",2202,-2,2002
+7,"NYK","Nene Hilario","International",23933,24.1,2002
+8,"LAC","Chris Wilcox","University of Maryland",12474,1.2,2002
+9,"PHO","Amar'e Stoudemire","High School",26254,16.8,2002
+10,"MIA","Caron Butler","University of Connecticut",28333,15.9,2002
+11,"WAS","Jared Jeffries","Indiana University",13579,3.8,2002
+12,"LAC","Melvin Ely","California State University, Fresno",6005,-2.4,2002
+13,"MIL","Marcus Haislip","University of Tennessee",854,-0.9,2002
+14,"IND","Fred Jones","University of Oregon",10299,2.8,2002
+15,"HOU","Bostjan Nachbar","International",5628,-0.4,2002
+16,"PHI","Jiri Welsch","International",4596,-0.1,2002
+17,"WAS","Juan Dixon","University of Maryland",8509,-2.1,2002
+18,"ORL","Curtis Borchardt","Stanford University",1117,-0.1,2002
+19,"UTA","Ryan Humphrey","University of Notre Dame",772,-1.1,2002
+20,"TOR","Kareem Rush","University of Missouri",5956,-3.2,2002
+21,"POR","Qyntel Woods","Northeast Mississippi Community College",2060,-0.5,2002
+22,"PHO","Casey Jacobsen","Stanford University",5320,-0.4,2002
+23,"DET","Tayshaun Prince","University of Kentucky",31576,16.6,2002
+24,"NJN","Nenad Krstic","International",10547,-1.5,2002
+25,"DEN","Frank Williams","University of Illinois at Urbana-Champaign",952,-0.7,2002
+26,"SAS","John Salmons","University of Miami",23672,5.8,2002
+27,"LAL","Chris Jefferies","California State University, Fresno",861,-0.9,2002
+28,"SAC","Dan Dickau","Gonzaga University",4617,-0.4,2002
+29,"GSW","Steve Logan","University of Cincinnati",NA,NA,2002
+30,"CHI","Roger Mason","University of Virginia",9147,0.5,2002
+31,"MEM","Robert Archibald","University of Illinois at Urbana-Champaign",328,-0.2,2002
+32,"DEN","Vincent Yarbrough","University of Tennessee",1381,-0.1,2002
+33,"MIL","Dan Gadzuric","University of California, Los Angeles",7793,1.3,2002
+34,"CLE","Carlos Boozer","Duke University",26901,22.1,2002
+35,"NYK","Milos Vujanic","International",NA,NA,2002
+36,"ATL","David Andersen","International",1264,-0.7,2002
+37,"HOU","Tito Maddox","California State University, Fresno",35,0,2002
+38,"WAS","Rod Grizzard","University of Alabama",NA,NA,2002
+39,"WAS","Juan Carlos Navarro","International",2117,-0.1,2002
+40,"LAC","Mario Kasun","International",569,-0.6,2002
+41,"MIL","Ronald Murray","Shaw University",11077,-2.6,2002
+42,"POR","Jason Jennings","Arkansas State University",NA,NA,2002
+43,"CHI","Lonny Baxter","University of Maryland",1884,-1.5,2002
+44,"PHI","Sam Clancy","University of Southern California",NA,NA,2002
+45,"MEM","Matt Barnes","University of California, Los Angeles",21967,16.7,2002
+46,"UTA","Jamal Sampson","University of California",631,0,2002
+47,"MIL","Chris Owens","University of Texas at Austin",6,0,2002
+48,"SEA","Peter Fehse","International",NA,NA,2002
+49,"BOS","Darius Songaila","Wake Forest University",9229,0.7,2002
+50,"POR","Federico Kammerichs","International",NA,NA,2002
+51,"MIN","Marcus Taylor","Michigan State University",NA,NA,2002
+52,"MIA","Rasual Butler","La Salle University",17219,-0.4,2002
+53,"NJN","Tamar Slay","Marshall University",517,-0.5,2002
+54,"DAL","Mladen Sekularac","International",NA,NA,2002
+55,"SAS","Luis Scola","",19001,7.2,2002
+56,"SAS","Randy Holcomb","San Diego State University",11,0,2002
+57,"SAC","Corsley Edwards","Central Connecticut State University",110,-0.1,2002
+1,"CLE","LeBron James","High School",41272,115.9,2003
+2,"DET","Darko Milicic","International",8638,0.8,2003
+3,"DEN","Carmelo Anthony","Syracuse University",35334,29.4,2003
+4,"TOR","Chris Bosh","Georgia Institute of Technology",31936,27.5,2003
+5,"MIA","Dwyane Wade","Marquette University",32352,57.8,2003
+6,"LAC","Chris Kaman","Central Michigan University",19642,0,2003
+7,"CHI","Kirk Hinrich","University of Kansas",27015,14.7,2003
+8,"MIL","T.J. Ford","University of Texas at Austin",11882,3.6,2003
+9,"NYK","Mike Sweetney","Georgetown University",3610,-0.1,2003
+10,"WAS","Jarvis Hayes","University of Georgia",9898,-2.2,2003
+11,"GSW","Mickael Pietrus","International",11950,3.4,2003
+12,"SEA","Nick Collison","University of Kansas",18528,11.4,2003
+13,"MEM","Marcus Banks","University of Nevada, Las Vegas",5571,-0.6,2003
+14,"SEA","Luke Ridnour","University of Oregon",21623,5.8,2003
+15,"ORL","Reece Gaines","University of Louisville",605,-0.9,2003
+16,"BOS","Troy Bell","Boston College",34,-0.1,2003
+17,"PHO","Zarko Cabarkapa","International",1550,-1.3,2003
+18,"NOH","David West","Xavier University",28145,24.5,2003
+19,"UTA","Sasha Pavlovic","International",8888,-3.2,2003
+20,"BOS","Dahntay Jones","Duke University",9799,-4.1,2003
+21,"ATL","Boris Diaw","International",28768,19.5,2003
+22,"NJN","Zoran Planinic","International",1584,-0.9,2003
+23,"POR","Travis Outlaw","High School",13026,-0.9,2003
+24,"LAL","Brian Cook","University of Illinois at Urbana-Champaign",5649,-0.6,2003
+25,"DET","Carlos Delfino","International",11580,8.1,2003
+26,"MIN","Ndudi Ebi","International",86,-0.1,2003
+27,"MEM","Kendrick Perkins","High School",17147,7,2003
+28,"SAS","Leandro Barbosa","International",18386,7.4,2003
+29,"DAL","Josh Howard","Wake Forest University",15350,10.3,2003
+30,"NYK","Maciej Lampe","International",632,-1.1,2003
+31,"CLE","Jason Kapono","University of California, Los Angeles",9068,-2.3,2003
+32,"LAL","Luke Walton","University of Arizona",9685,1.9,2003
+33,"MIA","Jerome Beasley","University of North Dakota",5,0,2003
+34,"LAC","Sofoklis Schortsanitis","International",NA,NA,2003
+35,"MIL","Szymon Szewczyk","International",NA,NA,2003
+36,"CHI","Mario Austin","Mississippi State University",NA,NA,2003
+37,"ATL","Travis Hansen","Brigham Young University",507,-0.4,2003
+38,"WAS","Steve Blake","University of Maryland",20823,1.3,2003
+39,"NYK","Slavko Vranes","International",3,0,2003
+40,"GSW","Derrick Zimmerman","Mississippi State University",32,-0.1,2003
+41,"SEA","Willie Green","University of Detroit Mercy",14783,-5.9,2003
+42,"ORL","Zaza Pachulia","International",20390,8.4,2003
+43,"MIL","Keith Bogans","University of Kentucky",14527,4.5,2003
+44,"HOU","Malick Badiane","International",NA,NA,2003
+45,"CHI","Matt Bonner","University of Florida",13356,10.1,2003
+46,"DEN","Sani Becirovic","International",NA,NA,2003
+47,"UTA","Mo Williams","University of Alabama",23872,8.9,2003
+48,"NOH","James Lang","International",55,0,2003
+49,"IND","James Jones","University of Miami",11098,4,2003
+50,"PHI","Paccelis Morlende","International",NA,NA,2003
+51,"NJN","Kyle Korver","Creighton University",27315,20.1,2003
+52,"TOR","Remon Van de Hare","International",NA,NA,2003
+53,"CHI","Tommy Smith","Arizona State University",NA,NA,2003
+54,"POR","Nedzad Sinanovic","International",NA,NA,2003
+55,"MIN","Rick Rickert","University of Minnesota",NA,NA,2003
+56,"BOS","Brandon Hunter","Ohio University",630,-0.5,2003
+57,"DAL","Xue Yuyang","International",NA,NA,2003
+58,"DET","Andreas Glyniadakis","International",81,-0.2,2003
+1,"ORL","Dwight Howard","High School",33291,38.9,2004
+2,"CHA","Emeka Okafor","University of Connecticut",18702,7.5,2004
+3,"CHI","Ben Gordon","University of Connecticut",20366,4.7,2004
+4,"LAC","Shaun Livingston","High School",15092,1.9,2004
+5,"WAS","Devin Harris","University of Wisconsin",21552,13.7,2004
+6,"ATL","Josh Childress","Stanford University",10432,8.6,2004
+7,"PHO","Luol Deng","Duke University",30536,22.5,2004
+8,"TOR","Rafael Araujo","Brigham Young University",1585,-1.8,2004
+9,"PHI","Andre Iguodala","University of Arizona",33834,43,2004
+10,"CLE","Luke Jackson","University of Oregon",724,-0.4,2004
+11,"GSW","Andris Biedrins","International",11146,8.6,2004
+12,"SEA","Robert Swift","High School",1500,-0.8,2004
+13,"POR","Sebastian Telfair","High School",12149,-5.8,2004
+14,"UTA","Kris Humphries","University of Minnesota",14232,0.1,2004
+15,"BOS","Al Jefferson","High School",25815,14.9,2004
+16,"UTA","Kirk Snyder","University of Nevada, Reno",3540,0,2004
+17,"ATL","Josh Smith","High School",28988,30,2004
+18,"NOH","J.R. Smith","High School",23730,14.5,2004
+19,"MIA","Dorell Wright","High School",12280,7.4,2004
+20,"DEN","Jameer Nelson","Saint Joseph's University",23526,13.2,2004
+21,"UTA","Pavel Podkolzin","International",28,-0.1,2004
+22,"NJN","Viktor Khryapa","International",2351,0.1,2004
+23,"POR","Sergei Monia","International",343,-0.3,2004
+24,"BOS","Delonte West","Saint Joseph's University",11842,7.6,2004
+25,"BOS","Tony Allen","Oklahoma State University",17782,13.9,2004
+26,"SAC","Kevin Martin","Western Carolina University",21559,11.3,2004
+27,"LAL","Sasha Vujacic","International",8908,2,2004
+28,"SAS","Beno Udrih","International",18185,2,2004
+29,"IND","David Harrison","University of Colorado",2686,-1,2004
+30,"ORL","Anderson Varejao","International",15051,13.3,2004
+31,"CHI","Jackson Vroman","Iowa State University",1111,-0.5,2004
+32,"WAS","Peter John Ramos","International",20,-0.1,2004
+33,"LAC","Lionel Chalmers","Xavier University",433,-0.5,2004
+34,"ATL","Donta Smith","Southeastern Illinois College",560,-0.2,2004
+35,"SEA","Andre Emmett","Texas Tech University",73,-0.1,2004
+36,"ORL","Antonio Burks","University of Memphis",789,-0.9,2004
+37,"ATL","Royal Ivey","University of Texas at Austin",6162,-2.8,2004
+38,"CHI","Chris Duhon","Duke University",15526,2,2004
+39,"TOR","Albert Miralles","International",NA,NA,2004
+40,"BOS","Justin Reed","University of Mississippi",1436,-1.4,2004
+41,"SEA","David Young","North Carolina Central University",NA,NA,2004
+42,"ATL","Viktor Sanikidze","International",NA,NA,2004
+43,"NYK","Trevor Ariza","University of California, Los Angeles",25539,23.3,2004
+44,"NOH","Tim Pickett","Florida State University",NA,NA,2004
+45,"CHA","Bernard Robinson","University of Michigan",1909,0,2004
+46,"POR","Ha Seung-Jin","International",316,-0.5,2004
+47,"MIA","Pape Sow","California State University, Fullerton",879,-0.6,2004
+48,"SAC","Ricky Minard","Morehead State University",NA,NA,2004
+49,"MEM","Sergei Lishouk","International",NA,NA,2004
+50,"DAL","Vassilis Spanoulis","International",272,-0.3,2004
+51,"NJN","Christian Drejer","University of Florida",NA,NA,2004
+52,"SAS","Romain Sato","Xavier University",NA,NA,2004
+53,"MIA","Matt Freije","Vanderbilt University",588,-0.6,2004
+54,"DET","Rickey Paulding","University of Missouri",NA,NA,2004
+55,"HOU","Luis Flores","Manhattan College",77,-0.1,2004
+56,"LAL","Marcus Douthit","Providence College",NA,NA,2004
+57,"SAS","Sergei Karaulov","International",NA,NA,2004
+58,"MIN","Blake Stepp","Gonzaga University",NA,NA,2004
+59,"IND","Rashad Wright","University of Georgia",NA,NA,2004
+1,"MIL","Andrew Bogut","University of Utah",19512,21.4,2005
+2,"ATL","Marvin Williams","University of North Carolina",24891,9.9,2005
+3,"UTA","Deron Williams","University of Illinois at Urbana-Champaign",28865,23.8,2005
+4,"NOH","Chris Paul","Wake Forest University",29646,71.6,2005
+5,"CHA","Raymond Felton","University of North Carolina",27085,10.4,2005
+6,"POR","Martell Webster","High School",13914,4.6,2005
+7,"TOR","Charlie Villanueva","University of Connecticut",13578,0.6,2005
+8,"NYK","Channing Frye","University of Arizona",18736,9.1,2005
+9,"GSW","Ike Diogu","Arizona State University",2795,-2,2005
+10,"LAL","Andrew Bynum","High School",10690,9,2005
+11,"ORL","Fran Vazquez","International",NA,NA,2005
+12,"LAC","Yaroslav Korolev","International",168,-0.2,2005
+13,"CHA","Sean May","University of North Carolina",1868,-0.2,2005
+14,"MIN","Rashad McCants","University of North Carolina",5037,-0.6,2005
+15,"NJN","Antoine Wright","Texas A&M University",5714,-1.5,2005
+16,"TOR","Joey Graham","Oklahoma State University",6117,-2.8,2005
+17,"IND","Danny Granger","University of New Mexico",18487,16.1,2005
+18,"BOS","Gerald Green","High School",10624,-1,2005
+19,"MEM","Hakim Warrick","Syracuse University",10624,-2.9,2005
+20,"DEN","Julius Hodge","North Carolina State University",98,-0.1,2005
+21,"PHO","Nate Robinson","University of Washington",13878,7.8,2005
+22,"DEN","Jarrett Jack","Georgia Institute of Technology",22592,5.7,2005
+23,"SAC","Francisco Garcia","University of Louisville",11853,4.9,2005
+24,"HOU","Luther Head","University of Illinois at Urbana-Champaign",7797,3.2,2005
+25,"SEA","Johan Petro","International",7262,-4,2005
+26,"DET","Jason Maxiell","University of Cincinnati",11379,0.1,2005
+27,"POR","Linas Kleiza","University of Missouri",8185,-0.9,2005
+28,"SAS","Ian Mahinmi","International",7902,3.5,2005
+29,"MIA","Wayne Simien","University of Kansas",507,-0.4,2005
+30,"NYK","David Lee","University of Florida",24293,22.3,2005
+31,"ATL","Salim Stoudamire","University of Arizona",2672,-2.1,2005
+32,"LAC","Daniel Ewing","Duke University",1683,-0.7,2005
+33,"NOH","Brandon Bass","Louisiana State University",16410,3.7,2005
+34,"UTA","C.J. Miles","High School",14928,4.1,2005
+35,"POR","Ricky Sanchez","International",NA,NA,2005
+36,"MIL","Ersan Ilyasova","International",14863,7.2,2005
+37,"LAL","Ronny Turiaf","Gonzaga University",8020,6,2005
+38,"ORL","Travis Diener","Marquette University",2660,0.1,2005
+39,"LAL","Von Wafer","Florida State University",2475,-0.7,2005
+40,"GSW","Monta Ellis","High School",29011,12.3,2005
+41,"TOR","Roko Ukic","International",987,-0.8,2005
+42,"GSW","Chris Taft","University of Pittsburgh",144,0,2005
+43,"NJN","Mile Ilic","International",6,-0.1,2005
+44,"ORL","Martynas Andriuskevicius","International",9,0,2005
+45,"PHI","Louis Williams","High School",18436,9.7,2005
+46,"IND","Erazem Lorbek","International",NA,NA,2005
+47,"MIN","Bracey Wright","Indiana University",325,-0.1,2005
+48,"SEA","Mickael Gelabale","International",2348,0,2005
+49,"WAS","Andray Blatche","High School",12462,5.4,2005
+50,"BOS","Ryan Gomes","Providence College",13463,2.3,2005
+51,"UTA","Robert Whaley","Walsh University",212,-0.1,2005
+52,"DEN","Axel Hervelle","International",NA,NA,2005
+53,"BOS","Orien Greene","University of Louisiana at Lafayette",1555,-0.7,2005
+54,"NYK","Dijon Thompson","University of California, Los Angeles",93,-0.1,2005
+55,"SEA","Lawrence Roberts","Mississippi State University",1150,0.2,2005
+56,"DET","Amir Johnson","High School",16623,19.1,2005
+57,"PHO","Marcin Gortat","International",17865,12.9,2005
+58,"TOR","Uros Slokar","International",72,-0.1,2005
+59,"ATL","Cenk Akyol","International",NA,NA,2005
+60,"DET","Alex Acker","Pepperdine University",234,-0.3,2005
+1,"TOR","Andrea Bargnani","International",15806,-0.9,2006
+2,"CHI","LaMarcus Aldridge","University of Texas at Austin",27568,22.5,2006
+3,"CHA","Adam Morrison","Gonzaga University",3278,-2.9,2006
+4,"POR","Tyrus Thomas","Louisiana State University",7932,1.7,2006
+5,"ATL","Shelden Williams","Duke University",5586,-1.2,2006
+6,"MIN","Brandon Roy","University of Washington",11561,15.2,2006
+7,"BOS","Randy Foye","Villanova University",19279,3.4,2006
+8,"HOU","Rudy Gay","University of Connecticut",26815,16.8,2006
+9,"GSW","Patrick O'Bryant","Bradley University",524,-0.2,2006
+10,"SEA","Mouhamed Sene","International",260,-0.5,2006
+11,"ORL","J.J. Redick","Duke University",17165,9.2,2006
+12,"NOK","Hilton Armstrong","University of Connecticut",3378,-0.7,2006
+13,"PHI","Thabo Sefolosha","International",17211,13.3,2006
+14,"UTA","Ronnie Brewer","University of Arkansas",11539,10.7,2006
+15,"NOK","Cedric Simmons","North Carolina State University",705,-0.7,2006
+16,"CHI","Rodney Carney","University of Memphis",4600,-0.8,2006
+17,"IND","Shawne Williams","University of Memphis",5368,0,2006
+18,"WAS","Oleksiy Pecherov","International",1044,-1.3,2006
+19,"SAC","Quincy Douby","Rutgers University",1535,-1.3,2006
+20,"NYK","Renaldo Balkman","University of South Carolina",3064,2.2,2006
+21,"PHO","Rajon Rondo","University of Kentucky",23045,22,2006
+22,"NJN","Marcus Williams","University of Connecticut",3095,-2,2006
+23,"NJN","Josh Boone","University of Connecticut",4482,0.1,2006
+24,"MEM","Kyle Lowry","Villanova University",22058,31.5,2006
+25,"CLE","Shannon Brown","Michigan State University",7329,-0.6,2006
+26,"LAL","Jordan Farmar","University of California, Los Angeles",9840,1.6,2006
+27,"PHO","Sergio Rodriguez","International",5281,-1.6,2006
+28,"DAL","Maurice Ager","Michigan State University",505,-1.1,2006
+29,"NYK","Mardy Collins","Temple University",2771,-2,2006
+30,"POR","Joel Freeland","International",1821,-0.2,2006
+31,"POR","James White","University of Cincinnati",583,-0.2,2006
+32,"HOU","Steve Novak","Marquette University",5657,1.6,2006
+33,"ATL","Solomon Jones","University of South Florida",3092,-0.7,2006
+34,"LAC","Paul Davis","Michigan State University",702,-0.5,2006
+35,"TOR","P.J. Tucker","University of Texas at Austin",11642,8.7,2006
+36,"MIN","Craig Smith","Boston College",6826,0.9,2006
+37,"MIN","Bobby Jones","University of Washington",867,-0.3,2006
+38,"GSW","Kosta Perovic","International",38,0,2006
+39,"MIL","David Noel","University of North Carolina",792,-0.3,2006
+40,"SEA","Denham Brown","University of Connecticut",NA,NA,2006
+41,"ORL","James Augustine","University of Illinois at Urbana-Champaign",156,0,2006
+42,"CLE","Daniel Gibson","University of Texas at Austin",9316,2.3,2006
+43,"NOK","Marcus Vinicius","International",172,-0.1,2006
+44,"ORL","Lior Eliyahu","International",NA,NA,2006
+45,"IND","Alexander Johnson","Florida State University",1302,-0.7,2006
+46,"UTA","Dee Brown","University of Illinois at Urbana-Champaign",711,-0.4,2006
+47,"UTA","Paul Millsap","Louisiana Tech University",24683,33.5,2006
+48,"WAS","Vladimir Veremeenko","International",NA,NA,2006
+49,"DEN","Leon Powe","University of California",3320,-0.2,2006
+50,"CHA","Ryan Hollins","University of California, Los Angeles",6134,-1,2006
+51,"LAL","Cheikh Samb","International",114,-0.2,2006
+52,"LAC","Guillermo Diaz","University of Miami",18,0,2006
+53,"SEA","Yotam Halperin","International",NA,NA,2006
+54,"NJN","Hassan Adams","University of Arizona",547,-0.3,2006
+55,"CLE","Ejike Ugboaja","International",NA,NA,2006
+56,"TOR","Edin Bavcic","International",NA,NA,2006
+57,"MIN","Loukas Mavrokefalidis","International",NA,NA,2006
+58,"DAL","J.R. Pinnock","George Washington University",NA,NA,2006
+59,"SAS","Damir Markota","International",170,-0.3,2006
+60,"DET","Will Blalock","Iowa State University",166,-0.2,2006
+1,"POR","Greg Oden","Ohio State University",2028,1.6,2007
+2,"SEA","Kevin Durant","University of Texas at Austin",26278,47,2007
+3,"ATL","Al Horford","University of Florida",21535,27.2,2007
+4,"MEM","Mike Conley","Ohio State University",22985,22.5,2007
+5,"BOS","Jeff Green","Georgetown University",21894,3.9,2007
+6,"MIL","Yi Jianlian","International",6038,-4.1,2007
+7,"MIN","Corey Brewer","University of Florida",17038,4.1,2007
+8,"CHA","Brandan Wright","University of North Carolina",6568,6.1,2007
+9,"CHI","Joakim Noah","University of Florida",17863,27.8,2007
+10,"SAC","Spencer Hawes","University of Washington",15541,5,2007
+11,"ATL","Acie Law","Texas A&M University",2385,-2,2007
+12,"PHI","Thaddeus Young","Georgia Institute of Technology",22594,13.7,2007
+13,"NOK","Julian Wright","University of Kansas",3049,0.5,2007
+14,"LAC","Al Thornton","Florida State University",8274,-3.1,2007
+15,"DET","Rodney Stuckey","Eastern Washington University",17890,2.7,2007
+16,"WAS","Nick Young","University of Southern California",14989,-5.2,2007
+17,"NJN","Sean Williams","Boston College",1978,0,2007
+18,"GSW","Marco Belinelli","International",14903,1.3,2007
+19,"LAL","Javaris Crittenton","Georgia Institute of Technology",1853,-1.1,2007
+20,"MIA","Jason Smith","Colorado State University",9554,-1.2,2007
+21,"PHI","Daequan Cook","Ohio State University",5993,-2.4,2007
+22,"CHA","Jared Dudley","Boston College",17766,14.8,2007
+23,"NYK","Wilson Chandler","DePaul University",16030,5.2,2007
+24,"PHO","Rudy Fernandez","International",5965,5.7,2007
+25,"UTA","Morris Almond","Rice University",361,-0.4,2007
+26,"HOU","Aaron Brooks","University of Oregon",13250,0.9,2007
+27,"DET","Arron Afflalo","University of California, Los Angeles",20147,5.2,2007
+28,"SAS","Tiago Splitter","International",6812,6.7,2007
+29,"PHO","Alando Tucker","University of Wisconsin",426,-0.5,2007
+30,"PHI","Petteri Koponen","International",NA,NA,2007
+31,"SEA","Carl Landry","Purdue University",11524,2.6,2007
+32,"BOS","Gabe Pruitt","University of Southern California",461,-0.1,2007
+33,"SAS","Marcus Williams","University of Arizona",39,-0.1,2007
+34,"DAL","Nick Fazekas","University of Nevada, Reno",269,0.1,2007
+35,"SEA","Glen Davis","Louisiana State University",10865,-0.8,2007
+36,"GSW","Jermareo Davidson","University of Alabama",433,-0.6,2007
+37,"POR","Josh McRoberts","Duke University",8265,6.2,2007
+38,"PHI","Kyrylo Fesenko","International",1107,-0.6,2007
+39,"MIA","Stanko Barac","International",NA,NA,2007
+40,"LAL","Sun Yue","International",28,-0.1,2007
+41,"MIN","Chris Richard","University of Florida",780,-0.3,2007
+42,"POR","Derrick Byars","Vanderbilt University",37,0,2007
+43,"NOK","Adam Haluska","University of Iowa",NA,NA,2007
+44,"ORL","Reyshawn Terry","University of North Carolina",NA,NA,2007
+45,"LAC","Jared Jordan","Marist College",NA,NA,2007
+46,"GSW","Stephane Lasme","University of Massachusetts Amherst",303,-0.1,2007
+47,"WAS","Dominic McGuire","California State University, Fresno",5348,0.6,2007
+48,"LAL","Marc Gasol","International",21721,31.2,2007
+49,"CHI","Aaron Gray","University of Pittsburgh",3851,0.2,2007
+50,"DAL","Renaldas Seibutis","International",NA,NA,2007
+51,"CHI","JamesOn Curry","Oklahoma State University",0,0,2007
+52,"POR","Taurean Green","University of Florida",74,-0.1,2007
+53,"POR","Demetris Nichols","Syracuse University",58,-0.2,2007
+54,"HOU","Brad Newley","International",NA,NA,2007
+55,"UTA","Herbert Hill","Providence College",NA,NA,2007
+56,"MIL","Ramon Sessions","University of Nevada, Reno",15727,0.8,2007
+57,"DET","Sammy Mejia","DePaul University",NA,NA,2007
+58,"SAS","Giorgos Printezis","International",NA,NA,2007
+59,"PHO","D.J. Strawberry","University of Maryland",270,-0.2,2007
+60,"DAL","Milovan Rakovic","International",NA,NA,2007
+1,"CHI","Derrick Rose","University of Memphis",16292,10.6,2008
+2,"MIA","Michael Beasley","Kansas State University",11973,-4.4,2008
+3,"MIN","O.J. Mayo","University of Southern California",16919,5.1,2008
+4,"SEA","Russell Westbrook","University of California, Los Angeles",22786,48.5,2008
+5,"MEM","Kevin Love","University of California, Los Angeles",18774,23.5,2008
+6,"NYK","Danilo Gallinari","International",14322,11.1,2008
+7,"LAC","Eric Gordon","Indiana University",16471,5.7,2008
+8,"MIL","Joe Alexander","West Virginia University",745,-0.2,2008
+9,"CHA","D.J. Augustin","University of Texas at Austin",15390,1.2,2008
+10,"NJN","Brook Lopez","Stanford University",18118,13.2,2008
+11,"IND","Jerryd Bayless","University of Arizona",10904,0.7,2008
+12,"SAC","Jason Thompson","Rider University",14819,1.3,2008
+13,"POR","Brandon Rush","University of Kansas",10564,0.7,2008
+14,"GSW","Anthony Randolph","Louisiana State University",3841,-0.1,2008
+15,"PHO","Robin Lopez","Stanford University",14353,8.9,2008
+16,"PHI","Marreese Speights","University of Florida",9965,-2.1,2008
+17,"TOR","Roy Hibbert","Georgetown University",16389,9.1,2008
+18,"WAS","JaVale McGee","University of Nevada, Reno",8716,2.9,2008
+19,"CLE","J.J. Hickson","North Carolina State University",11925,-0.9,2008
+20,"CHA","Alexis Ajinca","International",3905,-0.5,2008
+21,"NJN","Ryan Anderson","University of California",14708,10.4,2008
+22,"ORL","Courtney Lee","Western Kentucky University",18855,8.7,2008
+23,"UTA","Kosta Koufos","Ohio State University",9378,2.4,2008
+24,"SEA","Serge Ibaka","International",17521,12.1,2008
+25,"HOU","Nicolas Batum","International",19893,23.4,2008
+26,"SAS","George Hill","Indiana University-Purdue University Indianapolis",17357,18,2008
+27,"NOH","Darrell Arthur","University of Kansas",8804,0.4,2008
+28,"MEM","Donte Greene","Syracuse University",4259,-2,2008
+29,"DET","D.J. White","Indiana University",2111,-0.7,2008
+30,"BOS","J.R. Giddens","University of New Mexico",247,-0.2,2008
+31,"MIN","Nikola Pekovic","International",6744,2,2008
+32,"SEA","Walter Sharpe","University of Alabama at Birmingham",20,-0.1,2008
+33,"POR","Joey Dorsey","University of Memphis",1488,0.3,2008
+34,"MIN","Mario Chalmers","University of Kansas",15824,10.1,2008
+35,"LAC","DeAndre Jordan","Texas A&M University",18621,19.6,2008
+36,"POR","Omer Asik","International",9034,1.3,2008
+37,"MIL","Luc Mbah a Moute","University of California, Los Angeles",14388,4.1,2008
+38,"CHA","Kyle Weaver","Washington State University",1379,0.3,2008
+39,"CHI","Sonny Weems","University of Arkansas",3335,-1.9,2008
+40,"NJN","Chris Douglas-Roberts","University of Memphis",4381,-1,2008
+41,"IND","Nathan Jawai","International",431,-0.2,2008
+42,"SAC","Sean Singletary","University of Virginia",303,-0.2,2008
+43,"SAC","Patrick Ewing","Georgetown University",19,0,2008
+44,"UTA","Ante Tomic","International",NA,NA,2008
+45,"SAS","Goran Dragic","International",17867,15.3,2008
+46,"SEA","Trent Plaisted","Brigham Young University Hawaii",NA,NA,2008
+47,"WAS","Bill Walker","Kansas State University",3016,0.5,2008
+48,"PHO","Malik Hairston","University of Oregon",472,0,2008
+49,"GSW","Richard Hendrix","University of Alabama",NA,NA,2008
+50,"SEA","DeVon Hardin","University of California",NA,NA,2008
+51,"DAL","Shan Foster","Vanderbilt University",NA,NA,2008
+52,"MIA","Darnell Jackson","University of Kansas",1039,-0.7,2008
+53,"UTA","Tadija Dragicevic","International",NA,NA,2008
+54,"HOU","Maarty Leunen","University of Oregon",NA,NA,2008
+55,"POR","Mike Taylor","Iowa State University",771,-0.7,2008
+56,"SEA","Sasha Kaun","University of Kansas",95,0,2008
+57,"SAS","James Gist","University of Maryland",NA,NA,2008
+58,"LAL","Joe Crawford","University of Kentucky",23,0,2008
+59,"DET","Deron Washington","Virginia Polytechnic Institute and State University",NA,NA,2008
+60,"BOS","Semih Erden","International",928,0,2008
