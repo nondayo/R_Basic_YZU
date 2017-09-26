@@ -47,11 +47,15 @@ redraft_ls <- lapply(c(1989:2008), function(yr){
 redraft <- Reduce(x = redraft_ls, f = rbind)
 
 ggplot(data = redraft, aes(Redraft, Rk)) +
-  scale_y_continuous(name = "Rk", limits = c(0,60)) +
-  scale_x_continuous(name = "Redraft", limits = c(0,60)) +
+  scale_y_continuous(name = "選秀順位", limits = c(0,60)) +
+  scale_x_continuous(name = "生涯表現排名", limits = c(0,60)) +
   geom_abline(data = redraft, mapping = aes(slope = 1, intercept = 0)) +
-  geom_point(position = "jitter", color = "orange")
-  
+  geom_point(position = "jitter", color = "orange", size = 3) +
+  theme_grey(base_family="SimHei") +
+  theme(axis.text=element_text(size=15),
+        axis.title=element_text(size=20,face="bold")) +
+  geom_smooth(method = "loess")
+
 
 #Player's Bust/Steal Value
 BS = lapply(c(1989:2008), function(yr){
